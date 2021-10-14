@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "What is Cryptocurrency",
+    "description": "We’re here to demystify the world of cryptocurrency and Blockchain technology for you. Let us help you find out more on the future of digital currency and how it can all work for you.",
+    "img": "https://cdn.consensys.net/uploads/what-is-crypto.png",
+    "price": 49
+  },
+  {
+    "id": 2,
+    "title": "Where to buy Cryptocurrency",
+    "description": "Before you consider buying cryptocurrency, it’s essential to analyze various options. Crypto Coach has tried and tested a variety of Exchanges.",
+    "img": "https://b2binpay.com/wp-content/uploads/2020/06/where-to-buy-crypto.jpg",
+    "price": 65
+  },
+  {
+    "id": 3,
+    "title": "How to buy Cryptocurrency",
+    "description": "We know the crypto space can be daunting when you’re wanting to buy cryptocurrency. We’ve done the legwork to give you a step-by-step guide on how to buy your coin of choice on trusted and secure exchanges. ",
+    "img": "https://rationalinsurgent.com/wp-content/uploads/2021/05/How-to-Buy-Cryptocurrency-2020.1.jpg",
+    "price": 89
+  }
+]

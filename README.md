@@ -1,3 +1,29 @@
+# This is The Crypto Coaching Website
+We built Crypto Coach as a knowledge platform to demystify the often daunting world of cryptocurrency and help people understand the investments and technology we’re all so enthusiastic about.
+
+
+
+# Material Used for this project
+ We build this Website using React, React Router, and React Bootstrap combined. I installed fontawesome to use frawn emoji on Not Found route, to display 404 error message below this emoji.
+ It consists 4 main Route, Home, Service, Rank and About, along with NotFound route.
+
+
+
+# About Us
+Crypto Coach was created when five friends living across England, Canada and Ireland with a long standing passion for crypto realised we’d explained the concept of cryptocurrency and blockchain technology to friends, family and strangers so often, it’d make sense to share our knowledge and passion with the rest of the world. We built Crypto Coach as a knowledge platform to demystify the often daunting world of cryptocurrency and help people understand the investments and technology we’re all so enthusiastic about.
+
+We’ve created a quick journey through the crypto space to explain what cryptocurrency and blockchain technology is, using real world examples where possible along with highlighting some of the leading cryptocurrencies, how you can buy them and the best ways to keep your investment secure. As the exciting world of crypto continues to grow, we’re constantly working to give you maximum insight without all of the technological jargon that can be difficult to digest when you’re just getting started with crypto!
+We are always open to collaborating so please reach out!
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +94,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# review-website-itsfaarhaad

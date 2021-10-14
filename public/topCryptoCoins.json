@@ -1,0 +1,98 @@
+ [
+  {
+    "id": 1,
+    "rank": 1,
+    "name": "Bitcoin",
+    "img": "https://w7.pngwing.com/pngs/764/919/png-transparent-logo-bitcoin-graphics-dark-web-bmp-file-format-bitcoin-text-orange-logo.png",
+    "price": "58145.47",
+    "marketCap": "1,094,231,525,123"
+  },
+  {
+    "id": 2,
+    "rank": 2,
+    "name": "Ethereum",
+    "img": "https://1000logos.net/wp-content/uploads/2018/04/Ethereum-Logo.png",
+    "price": "3634.75",
+    "marketCap": "428,326,238,309"
+  },
+  {
+    "id": 3,
+    "rank": 3,
+    "name": "Binance Coin",
+    "img": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png",
+    "price": "465.85",
+    "marketCap": "78,424,140,276"
+  },
+  {
+    "id": 4,
+    "rank": 4,
+    "name": "Cardano",
+    "img": "https://cryptologos.cc/logos/cardano-ada-logo.png",
+    "price": "2.17",
+    "marketCap": "71,596,930,802"
+  },
+  {
+    "id": 5,
+    "rank": 5,
+    "name": "Tether",
+    "img": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+    "price": "0.9998",
+    "marketCap": "68,795,495,358"
+  },
+  {
+    "id": 6,
+    "rank": 6,
+    "name": "XRP",
+    "img": "https://1000logos.net/wp-content/uploads/2018/04/Ethereum-Logo.png",
+    "price": "1.13",
+    "marketCap": "53,146,015,649"
+  },
+  {
+    "id": 7,
+    "rank": 7,
+    "name": "Solana",
+    "img": "https://cryptologos.cc/logos/solana-sol-logo.png",
+    "price": "149.93",
+    "marketCap": "44,916,158,451"
+  },
+  {
+    "id": 8,
+    "rank": 8,
+    "name": "Polkadot",
+    "img": "https://polkadot.network/content/images/2020/06/Polkadot_OG.png",
+    "price": "41.34",
+    "marketCap": "40,875,337,940"
+  },
+  {
+    "id": 9,
+    "rank": 9,
+    "name": "USD Coin",
+    "img": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+    "price": "0.9998",
+    "marketCap": "32,816,352,513"
+  },
+  {
+    "id": 10,
+    "rank": 10,
+    "name": "Dogecoin",
+    "img": "https://assets.gadgets360cdn.com/img/crypto/dogecoin-og-logo.png",
+    "price": "0.2362",
+    "marketCap": "31,327,698,265"
+  },
+  {
+    "id": 11,
+    "rank": 11,
+    "name": "Uniswap",
+    "img": "https://assets-global.website-files.com/606f63778ec431ec1b930f1f/60f61054d05df6e33944bffc_Uniswap-1.jpg",
+    "price": "24.82",
+    "marketCap": "15,228,741,243"
+  },
+  {
+    "id": 12,
+    "rank": 12,
+    "name": "Terra",
+    "img": "https://1000logos.net/wp-content/uploads/2018/04/Ethereum-Logo.png",
+    "price": "36.72",
+    "marketCap": "14,856,163,529"
+  }
+]
